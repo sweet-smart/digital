@@ -1,0 +1,29 @@
+/* General */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fffdd0;
+    /* Light cream background */
+}
+
+/* Hero Section */
+.hero-section {
+    padding: 50px 20px;
+}
+
+.hero-title {
+    font-size: 2.5rem;
+}
+
+.hero-section img {
+    border-radius: 20px;
+}
+
+/* Sidebar Text (Rotated) */
+.rotate-text {
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    text-align: center;
+    font-size: 0.9rem;
+    font-weight: bold;
+    color: #6c757d;
+}
